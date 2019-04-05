@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554419671 source:c:\users\rama\desktop\tp_1_2019\funciones.c
+
+1554425768 source:c:\users\rama\desktop\tp_1_2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554428097 c:\users\rama\desktop\tp_1_2019\funciones.h
+
